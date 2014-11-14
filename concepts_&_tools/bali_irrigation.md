@@ -1,7 +1,7 @@
 # Bali Irrigation
 
 Figure 5: Rice fields at Bali.
-![](https://www.openabm.org/files/books/3443/bali.png)
+![rice fields in bali](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/bali.png)
 
 An interesting example of emergence and complex adaptive systems in social systems is irrigation in Bali, Indonesia. Farmers who irrigate their fields in Bali have to solve a complex coordination problem that emerges at the intersection of two separate issues: pest outbreaks and water shortage. On one hand, control of pests is most effective when all rice fields in a watershed have the same schedule of planting rice. The reason is that rice is harvested at the same time and no food for the pests exists in a larger area to survive. If harvest of rice was in small fields only, pest can survive after a harvest by moving to a neighboring field where rice is still on the field. On the other hand, the terraces are hydrologically interdependent, with long and fragile systems of tunnels, canals, and aqueducts. Therefore, to avoid water shortage, the irrigators should not plant rice all at the same time.
 
