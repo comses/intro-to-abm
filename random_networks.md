@@ -27,4 +27,9 @@ Not all turtles have the same number of links (Figure 7), but they will each hav
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_11_Fig_7.png)<br>*
 Figure 7. The distribution of degrees in the example run.*
 
-[NETLOGO EXAMPLE: NETWORKS](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/netlogo/networks.nlogo)<br>*Model: Right click on the Link and Save it. Open Netlogo and Run it with NetLogo.*
+[image](https://www.openabm.org/book/33102/113-random-network)
+___
+Note for OS X users: The Google Chrome browser is unable to run the Java applets that enable NetLogo models in the browser. You must use the Safari or Firefox browser. Otherwise, you may download the model code and run it using the NetLogo application installed on your computer.
+___
+[Attachment](https://www.openabm.org/files/books/3443/ch11-networks.nlogo)	Size
+ ch11-networks.nlogo	26.58 KB

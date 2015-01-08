@@ -45,4 +45,9 @@ Figure 6: Map of sellers and traders with herding effects.*
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_10_Fig_7.png)<br>*
 Figure 7. Price development over time.*
 
-[NETLOGO EXAMPLE: FINANCIAL BUBBLES](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/netlogo/herding.nlogo)<br>*Model: Right click on the Link and Save it. Open Netlogo and Run it with NetLogo.*
+[image](https://www.openabm.org/book/33102/103-financial-bubbles)
+___
+Note for OS X users: The Google Chrome browser is unable to run the Java applets that enable NetLogo models in the browser. You must use the Safari or Firefox browser. Otherwise, you may download the model code and run it using the NetLogo application installed on your computer.
+___
+[Attachment](https://www.openabm.org/files/books/3443/ch10-herding.nlogo)	Size
+ ch10-herding.nlogo	16.25 KB

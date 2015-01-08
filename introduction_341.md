@@ -5,7 +5,6 @@ To avoid overharvesting of the resource Hardin argued that there is a need for s
 
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_9_Fig_1.png)<br>*
 Figure 1: Garrett Hardin.*
-
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_9_Fig_2.png)<br>*
 Figure 2: Elinor Ostrom.*
 

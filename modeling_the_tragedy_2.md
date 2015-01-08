@@ -36,5 +36,9 @@ Figure 9: Avatars of agents sized to the level of the norms agents use.*
 
 One of the challenges is to anchor the norm to the sustainable level. The agents use informal norms and they may forget the sustainable norm they originally started with. How do we maintain the memory of the agents? One option is to start having formal rules that state clearly what the official allowable levels of resources may be. Furthermore, the sanctioning level might not be the same for everybody. Agents who persist in breaking the rule may get higher penalties. This is what we call graduated sanctioning. The first time agents break a rule, they get a warning, and over time they get higher and higher sanctions. You may adjust the model to include those aspects and see whether you get a sustainable outcome.
 
-[NETLOGO EXAMPLE: HARVESTING RESOURCES](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/netlogo/resourceharvest.nlogo)<br>*Model: Right click on the Link and Save it. Open Netlogo and Run it with NetLogo.*
-
+[image](https://www.openabm.org/book/33102/93-modeling-tragedy-2)
+___
+Note for OS X users: The Google Chrome browser is unable to run the Java applets that enable NetLogo models in the browser. You must use the Safari or Firefox browser. Otherwise, you may download the model code and run it using the NetLogo application installed on your computer.
+___
+[Attachment](https://www.openabm.org/files/books/3443/ch9-resourceharvest.nlogo) Size
+ ch9-resourceharvest.nlogo	26.81 KB

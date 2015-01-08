@@ -31,7 +31,9 @@ Finally, we show the results in the case where agents determine the score of the
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_5_Fig_10.png)
 Figure 10: *Spatial patterns when updating is synchronous but agents imitate always the best neighbor, even when this neighbor has not a better payoff.*
 
+[image](https://www.openabm.org/book/33102/54-importance-sequence-updating)
 
-[NETLOGO EXAMPLE: SPATIAL VARIATIONS](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/netlogo/SpatialGamesvariations.nlogo)<br>*Model: Right click on the Link and Save it. Open Netlogo and Run it with NetLogo.*
+Note for OS X users: The Google Chrome browser is unable to run the Java applets that enable NetLogo models in the browser. You must use the Safari or Firefox browser. Otherwise, you may download the model code and run it using the NetLogo application installed on your computer.
 
+[Attachment](https://www.openabm.org/files/books/3443/ch5-SpatialGamesvariations.nlogo)
 
