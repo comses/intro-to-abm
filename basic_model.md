@@ -4,7 +4,11 @@ Let’s start with the basic model we will use in this chapter. The model consis
 ##Environment
 Given below is a landscape of N×M cells. The edges are connected to derive a torus – donut shaped – environment (Figure 2).
 
+<<<<<<< HEAD
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_6_Fig_2.png)<br>*Figure 2.*
+=======
+![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_6_Fig_2.png)<br>*Figure 2.Torus Representation*
+>>>>>>> origin/master
 
 When we put agents on the landscape they will not experience any edges. Each cell can contain a resource unit. This resource unit provides an amount of energy R to an agent, if the agent collects it. If an agent has collected the resource unit of a cell, a new resource unit can appear on the cell with a probability pr.
 
