@@ -24,9 +24,4 @@ Figure 5. Spatial pattern of 10000 agents.*
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_12_Fig_6a.png)![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_12_Fig_6b.png)<br>*
 Figure 6. The top figure shows the number of adopted agents for heterogeneous threshold values. The bottom figure shows the number of adopted agents for a fixed threshold value of 0.5 for all the agents.*
 
-[image](https://www.openabm.org/book/33102/123-simple-diffusion-model)
-___
-Note for OS X users: The Google Chrome browser is unable to run the Java applets that enable NetLogo models in the browser. You must use the Safari or Firefox browser. Otherwise, you may download the model code and run it using the NetLogo application installed on your computer.
-___
-[Attachment](https://www.openabm.org/files/books/3443/ch12-dif-randomwalk.nlogo)	Size
- ch12-dif-randomwalk.nlogo	10.57 KB
+[NETLOGO EXAMPLE: DIFFUSION](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/netlogo/randomwalk.nlogo)<br>*Model: Right click on the Link and Save it. Open Netlogo and Run it with NetLogo.*

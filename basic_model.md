@@ -4,11 +4,8 @@ Let’s start with the basic model we will use in this chapter. The model consis
 ##Environment
 Given below is a landscape of N×M cells. The edges are connected to derive a torus – donut shaped – environment (Figure 2).
 
-<<<<<<< HEAD
-![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_6_Fig_2.png)<br>*Figure 2.*
-=======
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_6_Fig_2.png)<br>*Figure 2.Torus Representation*
->>>>>>> origin/master
+
 
 When we put agents on the landscape they will not experience any edges. Each cell can contain a resource unit. This resource unit provides an amount of energy R to an agent, if the agent collects it. If an agent has collected the resource unit of a cell, a new resource unit can appear on the cell with a probability pr.
 
@@ -71,7 +68,7 @@ ask turtles [set energy energy - metabolism]
 ```
 If the energy level is more than `birth-threshold` (slider value), we first half the energy level of the agent before we generate a copy. `hatch` means that the agent is cloned. If we don’t half the energy first, we will get two agents with more energy than `birth-threshold.` In such a situation, the system would generate energy by producing offspring, which is not possible.
 
-![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_6_Fig_4.png)<br>*
+![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/CH_6_Fig_4.png)<br>*
 Figure 4: Screenshot of a typical run of the model.8.*
 ```
 ask turtles [
@@ -102,13 +99,6 @@ The environment is 100 x 100 cells, thus 10,000 cells. Suppose the environment p
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_6_Fig_6.png)<br>*
 Figure 6: Resource size and population size using a replenishment rate equal to 0.01.*
 
-[image](https://www.openabm.org/book/33102/62-basic-model)
+[NETLOGO EXAMPLE: POPULATION DYNAMICS](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/netlogo/populationdynamics.nlogo)<br>*Model: Right click on the Link and Save it. Open Netlogo and Run it with NetLogo.*
 
----
 
-Note for OS X users: The Google Chrome browser is unable to run the Java applets that enable NetLogo models in the browser. You must use the Safari or Firefox browser. Otherwise, you may download the model code and run it using the NetLogo application installed on your computer.
-
----
-
-[Attachment](https://www.openabm.org/files/books/3443/ch6-populationdynamics.nlogo)	Size
- ch6-populationdynamics.nlogo	16.29 KB

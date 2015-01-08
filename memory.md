@@ -80,12 +80,4 @@ Figure 4: Population size average of the last 5000 ticks for different parameter
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_7_Fig_5.png)<br>*
 Figure 5: Population size average of the last 5000 ticks for different parameter combinations and a `thresholdmemory` equal to 99. Different lines represent different values of `pmove.`*
 
-[image](https://www.openabm.org/book/33102/74-memory)
-
-
-____
-Note for OS X users: The Google Chrome browser is unable to run the Java applets that enable NetLogo models in the browser. You must use the Safari or Firefox browser. Otherwise, you may download the model code and run it using the NetLogo application installed on your computer.
-____
-
-[Attachment](https://www.openabm.org/files/books/3443/ch7-foraging.nlogo)	Size
- ch7-foraging.nlogo	15.32 KB
+[NETLOGO EXAMPLE: FORAGING](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/netlogo/foraging.nlogo)<br>*Model: Right click on the Link and Save it. Open Netlogo and Run it with NetLogo.*
