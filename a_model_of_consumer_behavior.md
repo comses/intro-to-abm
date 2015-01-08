@@ -6,7 +6,7 @@ The utility of using a product consists of an individual part and a social effec
 The social effect means that the utility of a product increases when more friends consume the same product. This effect only affects the social need satisfaction. Hence, this effect qualitatively differs from the positive network effect often discussed in markets such as software, fax machines and the like, because the individual utility is not affected by the number of friends consuming the same product. This social effect relates to the need to conform to others in the agent’s network. The variable xj denotes therefore average distance of choices made by the agents and their neighbors. For each agent we calculate the ratio of products as a fraction of all products consumed among the neighbors of the agent. The total expected utility of consuming product j is equal to:
 
 ___
-Equation is missing
+![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/eq14-1.png)
 	    (1)
 ___
 The components of the utility function, the individual part and the social part, are weighted with βi and 1-βi, with βi ∈ [0,1]. A low βi holds that personal need is weighted less, as is usually the case with less innovative people (Rogers, 1995), whereas a high βi holds that social needs are weighted less, as is usually the case with more innovative people. The dimension δj on which the agents make decisions can represent various product characteristics.
@@ -15,7 +15,7 @@ The agents are located in a network. Like the previous chapter we first place ag
 
 Given two agents separated by distance d, the probability of a link connecting them is:
 ___
-Equation is missing (2)
+![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/eq14-2.png) (2)
 ___
 where n is the average number of links in the network, d is the average network density, D is the desired length-scale for generating networks, and N the number of agents. When D is small, i.e., D = 2, agents will be preferentially connected to agents within their immediate spatial vicinity. When D is larger, i.e., D = 10, agents are more connected with individuals at greater distances from themselves, that is, they are more “globally” connected (Figures 2 and 3).
 
@@ -44,10 +44,5 @@ In the previous simulations the β value of all agents was equal to 0.5. What wo
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_14_Fig_6a.png)![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_14_Fig_6b.png)<br>*
 Figure 6. The gini coefficient (top) and average utility (bottom) for different parameter values and where β was 0.5 or on average 0.5 but with a uniform distribution between 0 and 1.*
 
-[image](https://www.openabm.org/book/33102/143-model-consumer-behavior)
-___
-Note for OS X users: The Google Chrome browser is unable to run the Java applets that enable NetLogo models in the browser. You must use the Safari or Firefox browser. Otherwise, you may download the model code and run it using the NetLogo application installed on your computer.
-___
-[Attachment](https://www.openabm.org/files/books/3443/ch14-consumats.nlogo)	Size
- ch14-consumats.nlogo	25.65 KB
+
 

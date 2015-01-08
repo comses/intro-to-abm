@@ -71,11 +71,5 @@ We will now explore the consequences of the parameters `virus-spread-chance` and
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_13_Fig_4a.png)![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_13_Fig_4b.png)![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_13_Fig_4c.png)<br>*
 Figure 4: The average number of susceptible agents out of a population of 500 after 100 runs of 1000 time steps for different parameter settings. The upper figure is for an average degree of 4, the middle for an average degree of 6 and the lower figure for an average degree of 9. The horizontal axis shows the probability the virus is spread (from 1% to 10%) and the individual lines are the recovery chance (from 1% to 10%).*
 
+[NETLOGO EXAMPLE: CONTAGION ON A NETWORK IN](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/netlogo/sirnet.nlogo)<br>*Model: Right click on the Link and Save it. Open Netlogo and Run it with NetLogo.*
 
-
-[image](https://www.openabm.org/book/33102/133-sir-model-network)
-___
-Note for OS X users: The Google Chrome browser is unable to run the Java applets that enable NetLogo models in the browser. You must use the Safari or Firefox browser. Otherwise, you may download the model code and run it using the NetLogo application installed on your computer.
-___
-[Attachment](https://www.openabm.org/files/books/3443/ch13-SIRonnetwork.nlogo)	Size
- ch13-SIRonnetwork.nlogo	21.22 KB

@@ -1,5 +1,5 @@
 # Lock-in of Products
-Why do we sometimes have one product dominating a market, even if it is a product that some argue to be inferior? Examples are [Microsoft](http://www.microsoft.com/en-us/default.aspx), [QWERTY keyboards](http://en.wikipedia.org/wiki/QWERTY), [Google](https://www.google.com/?gws_rd=ssl) search engine, etc. This is the problem of [lock-in](http://en.wikipedia.org/wiki/Vendor_lock-in). Economist [Brian Arthur](http://en.wikipedia.org/wiki/W._Brian_Arthur) (1994) studied the problem of lock-in of technologies and developed some models that simulates lock-in processes.
+Why do we sometimes have one product dominating a market, even if it is a product that some argue to be inferior? Examples are [Microsoft](http://www.microsoft.com/), [QWERTY keyboards](http://en.wikipedia.org/wiki/QWERTY), [Google](https://www.google.com/?gws_rd=ssl) search engine, etc. This is the problem of [lock-in](http://en.wikipedia.org/wiki/Vendor_lock-in). Economist [Brian Arthur](http://en.wikipedia.org/wiki/W._Brian_Arthur) (1994) studied the problem of lock-in of technologies and developed some models that simulates lock-in processes.
 
 The basic idea is the following. Suppose there are two products to chose from, say Microsoft and Apple. The more people in your environment with whom you share files who use product A, the more valuable product A is. If a person has to make a choice between two products, he or she will be more likely to choose the product that has a majority of users, if the two products have similar performance.
 
@@ -18,9 +18,4 @@ In Figure 11 you see the results of a large number of simulations. We run the mo
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_12_Fig_11.png)<br>*
 Figure 11. Fraction of shares of product A at the end of 1000 simulations for different probabilities of agents reconsidering their choice.*
 
-[image](https://www.openabm.org/book/33102/125-lock-products)
-___
-Note for OS X users: The Google Chrome browser is unable to run the Java applets that enable NetLogo models in the browser. You must use the Safari or Firefox browser. Otherwise, you may download the model code and run it using the NetLogo application installed on your computer.
-___
-[Attachment](https://www.openabm.org/files/books/3443/ch12-lockin.nlogo)	Size
- ch12-lockin.nlogo	11.25 KB
+[NETLOGO EXAMPLE: BE LOCKED IN](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/netlogo/lockin.nlogo)<br>*Model: Right click on the Link and Save it. Open Netlogo and Run it with NetLogo.*
