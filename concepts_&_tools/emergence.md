@@ -1,8 +1,11 @@
 # Emergence
 
+
+
 [Emergence](http://en.wikipedia.org/wiki/Emergence) is a macro-level phenomenon, like the functioning of an ant colony, as a result of local-level interactions. Like the cartoon in Figure 2, understanding of macro level phenomena can only be derived by studying the consequences of the behavior of micro level agents.
 
-Figure 2: Macro level phenomena emerge from behavior of agents on the micro level![](https://www.openabm.org/files/books/3443/emergence.png).
+![](https://www.openabm.org/files/books/3443/emergence.png).<br>
+*Figure 2: Macro level phenomena emerge from behavior of agents on the micro level*
 
 Other examples of emergence are:
 
