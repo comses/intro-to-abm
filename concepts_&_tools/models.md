@@ -16,7 +16,7 @@ First, the discovery of the [Second Law of Thermodynamics](http://en.wikipedia.o
 
 ![Benjamin Button](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/CH_2_Fig_2_button.png)<br>*Figure 2: Benjamin Button.*
 
-If you let a glass fall it may break. It costs more energy to repair the glass than it cost to break it. When people become older parts of the body will degenerate. Our body can heal but scars of time will remain. Except in the case of the main character in the fantasy movie [Benjamin Button](http://en.wikipedia.org/wiki/The_Curious_Case_of_Benjamin_Button_(film) played by Brad Pitt. Here a baby was born looking old, bald and wrinkled, and became more youthful over time.
+If you let a glass fall it may break. It costs more energy to repair the glass than it cost to break it. When people become older parts of the body will degenerate. Our body can heal but scars of time will remain. Except in the case of the main character in the fantasy movie [Benjamin Button](http://en.wikipedia.org/wiki/The_Curious_Case_of_Benjamin_Button) played by Brad Pitt. Here a baby was born looking old, bald and wrinkled, and became more youthful over time.
 
 Second, the equilibrium view of species was brought down by [Charles Darwin's](http://en.wikipedia.org/wiki/Charles_Darwin) book [*On the Origin of Species*](http://en.wikipedia.org/wiki/On_the_Origin_of_Species) during the mid-19th century. The static concept of unchanging species was replaced by a dynamic concept of evolution through natural selection and adaptation, thereby fundamentally changing our view of nature. Natural systems are in continuous disequilibrium, being interdependent and constantly adapting to changing circumstances.
 

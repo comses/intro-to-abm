@@ -77,7 +77,7 @@ to-report absolute-value [number]
   [report 0 – number]
 end
 ```
-*Primitives* are built in reporters or commands. The developers of NetLogo have defined a number of common reports and commands that many people use, and then build in directly into NetLogo. If you look at the primitives directory at http://ccl.northwestern.edu/NetLogo/docs/primindex.html (LINK DOESN'T EXIST) you see a large set of primitives like ``turtles,`` ``turtles-here,`` ``ask, clear-all,`` etc. Learning which primitives are available and how to use them will take some practice. The best way to learn this is by looking at example models and see how other models have implemented certain problems.
+*Primitives* are built in reporters or commands. The developers of NetLogo have defined a number of common reports and commands that many people use, and then build in directly into NetLogo. If you look at the primitives directory at http://ccl.northwestern.edu/netlogo/docs/dictionary.html you see a large set of primitives like ``turtles,`` ``turtles-here,`` ``ask, clear-all,`` etc. Learning which primitives are available and how to use them will take some practice. The best way to learn this is by looking at example models and see how other models have implemented certain problems.
 
 Variables that are globally defined can be used everywhere in the program and are defined at top of the program
 ```

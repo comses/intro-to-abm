@@ -36,6 +36,6 @@ However, if we look at the maximum earnings of agents in the population, we see 
 
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_5_Fig_5.png)<br>*Figure 5.*
 
-[image](https://www.openabm.org/book/33102/52-accidental-millionaire)
+[Accidental Millionare Example]((https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/netlogo/ch5-random-v1.nlogo)<br>*Model: Right click on the Link and Save it. Open Netlogo and Run it with NetLogo.*
 
 Note for OS X users: The Google Chrome browser is unable to run the Java applets that enable NetLogo models in the browser. You must use the Safari or Firefox browser. Otherwise, you may download the model code and run it using the NetLogo application installed on your computer.
