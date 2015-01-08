@@ -14,12 +14,8 @@ By the end of this chapter you will:
 
 # Introduction
 
-<<<<<<< HEAD
 Figure 1: Ants creating a bridge.
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/CH_1_Fig_1_Ants.png)
-=======
-Figure 1: Ants creating a bridge. ![]{https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/CH_1_Fig_1_Ants.png}
->>>>>>> origin/master
 
 
 A little ant is walking on the sandy soil of Arizona looking for food. The food is meant for feeding the brood that is being taken care of by other ants in the colony. Different ants have different tasks in the colony, and the ant we are following is charged with leaving the nest every day in search of food. The amazing aspect of ant colonies is that such a complex organizational structure exists that is not controlled by the queen or a small group of bureaucratic ants. There is also no plan or to-do list that the ants are following. No, the complexity of the ant colony emerges out of the local interactions among the ants. The ant we observe is following a trail of pheromones, indicating that other ants of the colony have found food nearby and dropped the pheromones on their way back to the nest. The use of pheromones is therefore a way in which ants communicate to others “follow my trail and you may find food.” The pheromone trail will evaporate at a certain speed, and will therefore only be of limited use. If other ants do not follow this trail, bring back food and add their own pheromones to the trail, the trail will disappear. But when the trail is enhanced by successful use by others, a highway of ants may emerge. On such a highway, we see one lane of ants empty handed following the pheromone signal, and the other lane of ants bringing food back to the nest.

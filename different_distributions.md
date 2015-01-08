@@ -19,14 +19,4 @@ The average of the distributions converge to 1 as seen in the Figure 12 below. I
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_5_Fig_12.png)<br>
 *Figure 12. The mean of observations of 5 distributions. On the y axis is the number of observations generated.*
 
-[image](https://www.openabm.org/book/33102/55-different-distributions)
-
----
-
-Note for OS X users: The Google Chrome browser is unable to run the Java applets that enable NetLogo models in the browser. You must use the Safari or Firefox browser. Otherwise, you may download the model code and run it using the NetLogo application installed on your computer.
-
-----
-
-
-[Attachment](https://www.openabm.org/files/books/3443/ch5-random-distributions.nlogo)	Size
- ch5-random-distributions.nlogo	12.13 KB
+[NETLOGO EXAMPLE: RANDOM DISTRIBUTIONS VARIATIONS](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/netlogo/random-distr.nlogo)<br>*Model: Right click on the Link and Save it. Open Netlogo and Run it with NetLogo.*

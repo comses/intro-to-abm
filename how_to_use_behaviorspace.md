@@ -103,4 +103,4 @@ Figure 22.*
 We found now for a few cases that the defect always strategy is not the best. Since the model is stochastic, you need to run each parameter setting many times to be statistically sure about this.
 
 More information can be found at
-http://ccl.northwestern.edu/NetLogo/docs/behaviorspace.html.
+http://ccl.northwestern.edu/netlogo/docs/behaviorspace.html.

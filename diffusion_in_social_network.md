@@ -19,10 +19,5 @@ In Figure 8 some simulation runs are provided for a network of 500 nodes with di
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_12_Fig_8.png)<br>*
 Figure 8. Diffusion in networks with different rewiring probabilities.*
 
-[image](https://www.openabm.org/book/33102/124-diffusion-social-network)
-___
-Note for OS X users: The Google Chrome browser is unable to run the Java applets that enable NetLogo models in the browser. You must use the Safari or Firefox browser. Otherwise, you may download the model code and run it using the NetLogo application installed on your computer.
-___
-[Attachment](https://www.openabm.org/files/books/3443/ch12-dif-network.nlogo)	Size
- ch12-dif-network.nlogo	21.39 KB
+[NETLOGO EXAMPLE: DIFFUSION ON NETWORKS](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/netlogo/dif-network.nlogo)<br>*Model: Right click on the Link and Save it. Open Netlogo and Run it with NetLogo.*
 

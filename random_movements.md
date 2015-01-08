@@ -17,6 +17,5 @@ Different values of D and ps lead to very different behavior. In the table below
 
 ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_5_Fig_6.png)<br>*Figure 6.*
 
-[image](https://www.openabm.org/book/33102/53-random-movements)
+[NETLOGO EXAMPLE: RANDOM MOVEMENT](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/netlogo/ch5-3-movement.nlogo)<br>*Model: Right click on the Link and Save it. Open Netlogo and Run it with NetLogo.*
 
-Note for OS X users: The Google Chrome browser is unable to run the Java applets that enable NetLogo models in the browser. You must use the Safari or Firefox browser. Otherwise, you may download the model code and run it using the NetLogo application installed on your computer.

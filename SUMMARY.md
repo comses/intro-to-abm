@@ -44,7 +44,7 @@
        * [The Effects of Mating](the_effects_of_mating.md)
        * [Summary and NetLogo Primatives](summary_and_netlogo_primatives.md)
    * [Foraging](agents_and_resources/foraging.md)
-       * [Introduction](file_name_should_be_unique.md)
+       * [Introduction](agents_and_resources/introduction.md)
        * [Creating a Landscape](creating_a_landscape.md)
        * [Foraging](foraging.md)
        * [Memory](memory.md)

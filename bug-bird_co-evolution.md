@@ -44,12 +44,12 @@ if speed > max-speed [set speed max-speed]
 if speed < 0 [set speed 0]
 ```
 
-![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch__Fig_5.png)<br>*
+![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_8_Fig_5.png)<br>*
 Figure 5. Screenshot of Bug Hunt Coevolution.*
 
 Figure 6 show some typical results of this model. Bugs benefit by going faster to survive. The same holds for birds, especially if the birds start to speed up. When a bug’s vision increases it starts to flee earlier, so a bird benefits when it can spot a bug first (and move faster than the bug).
 
-![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_8_Fig_6.png)<br>*
-Figure 6: Evolution of speed and vision of birds and bugs.*
+![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_8_Fig_6A.png)
+![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/Ch_8_Fig_6B.png)<br>*Figure 6: Evolution of speed and vision of birds and bugs.*
 
 
