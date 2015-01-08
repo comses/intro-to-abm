@@ -45,4 +45,4 @@ In the previous simulations the β value of all agents was equal to 0.5. What wo
 Figure 6. The gini coefficient (top) and average utility (bottom) for different parameter values and where β was 0.5 or on average 0.5 but with a uniform distribution between 0 and 1.*
 
 
-
+[NETLOGO EXAMPLE: CONSUMERS IN](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/netlogo/consumats.nlogo)<br>*Model: Right click on the Link and Save it. Open Netlogo and Run it with NetLogo.*
