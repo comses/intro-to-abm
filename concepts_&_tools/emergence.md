@@ -1,8 +1,11 @@
 # Emergence
 
+
+
 [Emergence](http://en.wikipedia.org/wiki/Emergence) is a macro-level phenomenon, like the functioning of an ant colony, as a result of local-level interactions. Like the cartoon in Figure 2, understanding of macro level phenomena can only be derived by studying the consequences of the behavior of micro level agents.
 
-Figure 2: Macro level phenomena emerge from behavior of agents on the micro level![](https://www.openabm.org/files/books/3443/emergence.png).
+![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/CH_1_Fig_2_emergence.png).<br>
+*Figure 2: Macro level phenomena emerge from behavior of agents on the micro level*
 
 Other examples of emergence are:
 
@@ -12,7 +15,7 @@ Paved paths are not always the most desirable routes going from point A to point
 Look around at your campus and you will find examples of paths that have emerged from a bottom-up design (see example of Figure 3).
 
 
-Figure 3: Official paths and emerging trails on a university campus.![](https://www.openabm.org/files/books/3443/path.gif)
+Figure 3: Official paths and emerging trails on a university campus.![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/CH_1_Fig_3_emergence.gif)
 
 * ####  Traffic Jams
 Have you ever been stuck in a traffic jam only to reach the front of the slow-down to discover that there was no obvious reason for it? Sometimes it happens that traffic jams, defined by slow moving cars, develop rapidly in the opposite direction of the flow of traffic. As a consequence you may enter in a traffic jam that was formed many miles ahead. Traffic jams can also form without direct causes like accidents. When drivers have different preferred speed levels, they need to slow down as they approach a slower car in front of them. As a consequence other cars behind this car will need to slow down too. As we will see in later chapters, we can simulate the emergence of traffic jams by simply assuming differences in the desired speed of the drivers.
@@ -22,7 +25,7 @@ Have you ever been stuck in a traffic jam only to reach the front of the slow-do
 In a Mexican wave people stand up and sit down from their seats in succession, creating a human wave. In a standing ovation people stand up to applaud the performance at the end of an excellent play. Both are examples of emergence in stadiums and theaters. No single individual in the audience is able to create a Mexican wave or a standing ovation. So, how do they emerge? When a few people start others may follow. How many need to start to trigger a wave and does it matter where they are sitting?
 
 
-Figure 4: Mexican wave. ![[Source] (link is external)](https://www.openabm.org/files/books/3443/mexican.png)
+Figure 4: Mexican wave. ![](https://raw.githubusercontent.com/comses/intro-to-abm/master/assets/images/CH_1_Fig_4_emergence.jpg)
 
 * ####     Flocking Behavior
 A flock of birds or a school of fish seems to move in unity (as in Figure 2) but no single fish or bird is controlling or directing the group. What individual behaviors can lead to this flocking behavior?
