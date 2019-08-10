@@ -1,3 +1,7 @@
 # Introduction to Agent-Based Modeling
 
-An introduction to agent-based modeling concepts and practices hosted at [GitBook](https://www.gitbook.com/book/cbie/introduction-to-agent-based-modeling/).
+## Updated edition coming soon in Fall 2019, this material is out-of-date.
+
+An introduction to agent-based modeling concepts and practices. 
+
+
