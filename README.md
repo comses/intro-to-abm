@@ -1,7 +1,6 @@
 # Introduction to Agent-Based Modeling
 
-## Updated edition coming soon in Fall 2019, this material is out-of-date.
-
 An introduction to agent-based modeling concepts and practices. 
 
-
+## Update
+An updated edition is coming soon and will be available at https://intro2abm.com
